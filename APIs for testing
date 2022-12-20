@@ -60,4 +60,12 @@ curl --location --request GET 'http://127.0.0.1:5008/smart-uw/duke-visualization
 
 		} 
 
+
+Graffana details:
+ekspp-monitor.chsbc.nonprod.int
+lumiq
+BYcvEy7LDXfc
+ 
+
+
 ' 
