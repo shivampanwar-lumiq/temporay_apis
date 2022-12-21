@@ -74,4 +74,30 @@ lumiq
 
 BYcvEy7LDXfc
 
-' 
+
+
+[Yesterday 11:32] Venkata Sai Kishore Tiriveedi
+sanity-checks    http://unifiedbk.chsbc.nonprod.int/bepp-sanitycheckssrv/
+
+[Yesterday 11:33] Venkata Sai Kishore Tiriveedi
+duke-implementation      http://unifiedbk.chsbc.nonprod.int/bepp-dukeimplsrv/
+
+[Yesterday 11:36] Venkata Sai Kishore Tiriveedi
+similar-cases     http://unifiedbk.chsbc.nonprod.int//bepp-similarcasesrv/
+
+[Yesterday 11:37] Venkata Sai Kishore Tiriveedi
+duke-visualization  http://unifiedbk.chsbc.nonprod.int/bepp-dukevisualsrv/
+
+[Yesterday 11:38] Venkata Sai Kishore Tiriveedi
+post-issuance   http://unifiedbk.chsbc.nonprod.int/bepp-postissuesrv/
+
+[Yesterday 11:39] Venkata Sai Kishore Tiriveedi
+preprocess-case  http://unifiedbk.chsbc.nonprod.int/bepp-preprocesscasesrv/
+
+[Yesterday 11:40] Venkata Sai Kishore Tiriveedi
+preprocess-duke     http://unifiedbk.chsbc.nonprod.int/bepp-preprocessdukesrv/
+
+[Yesterday 11:41] Venkata Sai Kishore Tiriveedi
+visualization    http://unifiedbk.chsbc.nonprod.int/bepp-visualsrv/
+
+
